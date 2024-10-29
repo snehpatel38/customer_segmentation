@@ -3,6 +3,8 @@
 ### Project Overview
 This project focuses on customer segmentation using clustering algorithms, including KMeans, Hierarchical Clustering, and DBSCAN, to identify patterns in customer behavior for actionable business insights.
 
+Check the live streamlit app on link: https://customersegmentation-ynpmwfujjrehjbayhmboao.streamlit.app/
+
 ### Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
