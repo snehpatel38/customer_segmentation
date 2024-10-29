@@ -11,7 +11,6 @@ This project focuses on customer segmentation using clustering algorithms, inclu
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ### Technologies Used
 - **Python**: Core language used for analysis
@@ -42,3 +41,6 @@ To set up the environment and run this project locally:
 
 ### Results
 - The clustering analysis provides insights into customer segments, such as high-spending, low-spending, and medium-spending groups, based on annual income and spending score.
+
+### Contributing
+- Pull requests are welcome. For major changes, please open an issue to discuss what you would like to change.
